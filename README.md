@@ -28,6 +28,8 @@ If you would like to submit changes please reach out to me at jeremy.k.bryson@gm
  - DC POwer jack (5.5 x 2.1mm) - https://www.amazon.com/gp/product/B07XCNSM81/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1
  - 3.5mm jack (Thiese suck. I'm looking for better ones) - https://www.amazon.com/gp/product/B08XM6DR96/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1
  - USB extension (Mini USB) - https://www.amazon.com/gp/product/B08NPJDTVC/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1
+ - Push-to-connect Fittings (10-32) - https://www.amazon.com/gp/product/B0B92C9VPJ/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1
+ - tubing (pneumatic 1/4 inch) - https://www.amazon.com/gp/product/B07R2F97T9/ref=ppx_yo_dt_b_asin_title_o00_s01?ie=UTF8&th=1
 
 ## Wiring Diagram
-- Comming ASAP
+- Coming ASAP
