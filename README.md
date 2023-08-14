@@ -3,6 +3,21 @@
 
 If you would like to submit changes please reach out to me at jeremy.k.bryson@gmail.com.  I hope this code gets better over time. I also have plans to make it into a Trimix mixer down the road.
 
+## Important
+ - The proportional control valve is a 0-10vdc valve.  Do not exceed 10vdc
+
+## Proportional Control Valve
+ - Vendor: Kelly Pneumatics - https://kellypneumatics.com/product/miniature-proportional-valve/
+   - Mini Proportional Valve
+     - Inlet Pressure: 100 psi
+     - Back Pressure : N/A
+     - Flow Rate: Max
+     - Medium: Air
+     - Orifice: .040"
+     - Control Signal: 0-10 vdc (1.8 watts)
+     - Ports: Inline 10-32
+     - Seals: Viton
+
 ## Parts with Amazon links
  - Arduino Nano (ATmega328p) - https://www.amazon.com/gp/product/B07D12TWNZ/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1
  - Analog to Digital converter(ADS1115) - https://www.amazon.com/gp/product/B08HLYKXC6/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
